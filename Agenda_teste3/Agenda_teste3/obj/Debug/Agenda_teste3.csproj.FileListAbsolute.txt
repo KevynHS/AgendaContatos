@@ -1,0 +1,11 @@
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\bin\Debug\Agenda_teste3.exe.config
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\bin\Debug\Agenda_teste3.exe
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\bin\Debug\Agenda_teste3.pdb
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\obj\Debug\Agenda_teste3.csproj.AssemblyReference.cache
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\obj\Debug\Agenda_teste3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\obj\Debug\Agenda_teste3.Form1.resources
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\obj\Debug\Agenda_teste3.Properties.Resources.resources
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\obj\Debug\Agenda_teste3.csproj.GenerateResource.cache
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\obj\Debug\Agenda_teste3.csproj.CoreCompileInputs.cache
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\obj\Debug\Agenda_teste3.exe
+C:\Users\kevyn\source\repos\Agenda_teste3\Agenda_teste3\obj\Debug\Agenda_teste3.pdb
